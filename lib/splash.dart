@@ -29,7 +29,6 @@ class _Splash_ScreenState extends State<Splash_Screen> {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          // crossAxisAlignment: CrossAxisAlignment.center,
           children: const [
             Icon(
               Icons.mobile_friendly_rounded,
